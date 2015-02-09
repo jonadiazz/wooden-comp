@@ -1,16 +1,7 @@
 
 /*
 Name: Jonathan Vasquez
-Class : 1620-003 
-Program # : 60 
-Due Date : May 01 / 2014 
-
-Honor Pledge: On my honor as a student of the University 
-of Nebraska at Omaha, I have neither given nor received 
-unauthorized help on this homework assignment. 
-Signed: Jhonatan Vasquez, 88139896, jvasquez@unomaha.edu 
-
-Collaborators : NONE
+Signed: JV, jvasquez@unomaha.edu
 
 Description: This file is the binary tree which holds all the elements that are inserted in the tree as treeNode. It contains all the methods that control any changes made to the tree. 
 */

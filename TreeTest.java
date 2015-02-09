@@ -1,16 +1,7 @@
 
 /*
 Name: Jonathan Vasquez
-Class : 1620-003 
-Program # : 00 
-Due Date : May 1/ 2014 
-
-Honor Pledge: On my honor as a student of the University 
-of Nebraska at Omaha, I have neither given nor received 
-unauthorized help on this homework assignment. 
-Signed: Jhonatan Vasquez, 88139896, jvasquez@unomaha.edu 
-
-Collaborators : NONE
+Signed: JV, jvasquez@unomaha.edu
 
 Description: This file creates an object of type Menu which control the options we have from the Tree file. While we do not want to quit, we keep asking the user for a new order to process. Also, includes the getRaw values method which gets a file of type txt in our tree. In case that we were given a database with raw numbers or elements.
 */
